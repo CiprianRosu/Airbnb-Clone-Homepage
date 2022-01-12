@@ -1,7 +1,7 @@
 .banner {
-  background: url("https://posturecarechair.com.au/wp-content/uploads/2017/05/Matty-Duplex-K3-Living-Room-Banner-Image-1920-by-500-pixels-1920x500.jpg")
+  background: url("https://www.oceanpacificresort.com.au/wp-content/uploads/2016/11/banner-1bedroom-garden-view.jpg")
     center center;
-  height: 50vh;
+  height: 55vh;
   position: relative;
 }
 
@@ -13,7 +13,7 @@
   padding-right: 50px;
   padding-bottom: 40px;
   width: 300px;
-  /* height: 202px; */
+  /* height: 50%; */
 }
 .banner__search {
   display: flex;
